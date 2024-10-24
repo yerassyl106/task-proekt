@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(https://images.inc.com/uploaded_files/image/1920x1080/getty_851986854_370807.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.keste{
+    border: 5px solid black;
+    gap: 5px;
+}
+
+.keste{
+    width: fit-content;
+    margin-top: 300px;
+
+    color: rgb(3, 22, 22);
+    font-size: 50px;
+    margin-left: 400px;
+}
+
+th,td{
+    z-index: 10;
+    border: 5px solid black;
+}
